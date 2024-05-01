@@ -1,0 +1,1 @@
+# STRINGS_APP_CPP_
